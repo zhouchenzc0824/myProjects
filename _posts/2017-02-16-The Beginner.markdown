@@ -16,6 +16,7 @@ Hi, this is Mr.zhou. I have my portfolio and blog deployed on Github pages using
 ![zhifubao_payment](/assets/images/zhifubao.jpg)
 
 
+
 微信<a class="fa fa-money fa-lg" title="WeChat Pay"></a> 
 ![wechat_payment](/assets/images/wechat.jpg)
 
