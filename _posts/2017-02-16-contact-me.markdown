@@ -22,10 +22,10 @@ Hi, this is Mr.Zhou. A passionate basketballer and a good team player. Going to 
 You can reach out to me at 
 <a href="https://github.com/zhouchenzc0824" target="_blank">Github</a>,
 <a href="https://www.instagram.com/zhouchenzcins" target="_blank">Instagram</a>
-<a href="https://www.linkedin.com/in/chen-zhou-68877659" target="_blank">Linkedin</a>
-or ,for simplicity, shoot me a 
+<!--<a href="https://www.linkedin.com/in/chen-zhou-68877659" target="_blank">Linkedin</a>-->
+or, for simplicity, shoot me a 
 <a href="mailto:zhouchenzc0824@gmail.com" target="_blank">email</a>
-for anything that you want to share with me. I will be truly grateful for that.
+for anything that you want to share with me. I will be truly grateful for any response.
 
 <center>
 
