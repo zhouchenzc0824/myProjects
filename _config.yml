@@ -1,15 +1,15 @@
 title: My Projects
 description: Any Work Done by Mr.Zhou
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 url: "https://zhouchenzc0824.github.io/"
 baseurl:"/myProjects"
 =======
-url: "https://zhouchenzc0824.github.io/myProjects/tree/gh-pages/"
->>>>>>> d8d2975be358483afc00ad89462a0166b2fffa65
-=======
-url: "https://zhouchenzc0824.github.io/myProjects/tree/gh-pages/"
->>>>>>> d8d2975be358483afc00ad89462a0166b2fffa65
+
+
+
+
+
 
 # Build settings  engine:kramdown
 # markdown: redcarpet
