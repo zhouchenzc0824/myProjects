@@ -3,12 +3,7 @@ description: Any Work Done by Mr.Zhou
 
 
 url: "https://zhouchenzc0824.github.io/"
-baseurl:"/myProjects"
-=======
-
-
-
-
+baseurl:""
 
 
 # Build settings  engine:kramdown
