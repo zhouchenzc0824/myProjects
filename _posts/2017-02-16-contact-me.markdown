@@ -43,7 +43,7 @@ for anything that you want to share with me. I will be truly grateful for that.
 <a href="https://zhouchenzc0824.github.io/" class="fa fa-home" target="_blank" title="Home Page"></a>
 
 <!--Linkedin-->
-<a href="https://www.linkedin.com/in/chen-zhou-68877659/" class="fa fa-linkedin" target="_blank" title="Linkedin"></a>
+<!-- <a href="https://www.linkedin.com/in/chen-zhou-68877659/" class="fa fa-linkedin" target="_blank" title="Linkedin"></a> -->
 
 <!--Email-->
 <a href="mailto:zhouchenzc0824@gmail.com" value="Email" class="fa fa-envelope" target="_blank" title="Shoot Me A Email"></a>
