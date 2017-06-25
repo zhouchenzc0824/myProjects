@@ -17,7 +17,7 @@ chotto matte，社会主义接班人从不迷信。
 有空会去打打球，也会去健身房锻炼下，也出去旅行，从湖人三连冠看球起，科比死忠，现在都看看，觉得西布胡子和布克都不错，爱调侃不黑人。关注互联网的动向，在美国学会并爱上了滑雪，足迹已经去到了一些地方，然而我知道还有更多的未知和惊喜。现在的一个梦想是走遍美国，走遍世界。如果有志同道合朋友，有兴趣可以加微信说是博客来的。
 <br>
 
-Hi, this is Mr.Zhou. A passionate basketballer and always being a good team player. Going to gym three times a week or so but not professional. A traveller willing to explore the world and see the beauty of diffrent cultures and lives. Music lover and sometimes do some cover songs for fun. Thumb up for skiing. A quick learner once made use of all basic skills in one day as a novice and be able to ski from the mountaintop to the ground in the next day. Hoping have more chances to enhance my skills reaching a higher level and master it finally.
+Hi, this is Mr.Zhou. A passionate basketballer and a good team player. Going to gym three times a week or so but not professional. A traveller willing to explore the world and seeing the beauty of diffrent cultures and lives. Music lover and sometimes do some cover songs for fun. Thumb up for skiing. A quick learner once made use of all basic skills in one day as a novice and be able to ski from the mountaintop to the ground in the next day. I just love freedom.
 
 You can reach out to me at 
 <a href="https://github.com/zhouchenzc0824" target="_blank">Github</a>,
@@ -26,12 +26,6 @@ You can reach out to me at
 or ,for simplicity, shoot me a 
 <a href="mailto:zhouchenzc0824@gmail.com" target="_blank">email</a>
 for anything that you want to share with me. I will be truly grateful for that.
-
-
-![](/assets/images/wechat_acct.jpg)
-
-
-
 
 <center>
 
